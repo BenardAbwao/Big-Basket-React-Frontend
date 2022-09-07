@@ -1,8 +1,8 @@
-# Getting Started with Create React App
+# Big Basket
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Author: Benard Abwao
 
-## Available Scripts
+## Project Description
 
 In the project directory, you can run:
 
