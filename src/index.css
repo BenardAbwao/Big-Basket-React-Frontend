@@ -1,13 +1,148 @@
 body {
   margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
-    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
-    sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
+  padding: 0;
+  overflow-x: hidden;
 }
+.App {
+  display: flex;
+  justify-content: center;
+  min-height: 100vh;
+  background-color: black;
 
-code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
-    monospace;
+}
+.Navbar {
+  height: 120px;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background: whitesmoke
+}
+.Navbar > .nav-logo {
+  font-weight: 700;
+  font-size: 1.3em;
+  margin: 15px;
+  color: #B76E79;
+  text-align: center;
+  
+}
+.quotebox {
+  position:absolute;
+  background-color: whitesmoke;
+  width: 600px;
+  height: 200px;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%,-50%);
+  padding: 2em;
+  border-radius: 18px 87px 18px 97px;
+}
+.quotebutton {
+  position: relative;
+  margin-left: auto;
+  margin-right: auto;
+}
+button {
+  background-color: whitesmoke;
+  border-radius: 28px;
+  border: 1px solid #B76E79;
+  display: inline-block;
+  color: black;
+  font-family: Arial, Helvetica, sans-serif;
+  padding: 16px 31px;
+  text-decoration: none;
+  font-size: 1.2em;
+  text-shadow: 0px 1px 0px #B76E79 ;
+}
+button:hover {
+  background-color: black;
+  color: whitesmoke;
+  border: 1px solid #B76E79;
+}
+button:active {
+  position: relative;
+  top: 1px;
+}
+.quote {
+  margin: 1em;
+}
+.home {
+  width :100vw;
+  height: auto;
+  margin: 0;
+  text-align: center;
+  background-color: #B76E79;
+  margin-top: 0;
+}
+.Nav {
+  height: 68px;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background: whitesmoke;
+}
+.Nav > .nav{
+  font-weight: 700;
+  font-size: 1.3em;
+  margin: 15px;
+  color: black;
+}
+.home form {
+  display: flex;
+  flex-direction: column;
+  justify-content:center;
+  padding-left: 3em;
+}
+.home label {
+  display: block;
+  font-size: 2em;
+  font-weight: 700;
+}
+.home input, .home textarea, .home select {
+  width: 50%;
+  padding: 6px 10px;
+  margin: 10px 0;
+  border: 1px solid #dddd;
+  box-sizing: border-box;
+  text-align: center;
+  align-items: center;
+  color: black;
+}
+.home button {
+  background-color: black;
+  color: whitesmoke;
+  border: 0;
+  border-radius: 8px;
+  cursor: pointer;
+  width: 150px;
+  align-items: center;
+}
+.home button:hover{
+  color:#B76E79;
+  background-color: whitesmoke;
+}
+.show {
+  width: 100vw;
+  height: 800vh;
+  background-color:#B76E79;
+  color: whitesmoke;
+  font-size: 1.3em;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  font-style: oblique;
+}
+.show button {
+  background-color: black;
+  color: whitesmoke;
+  border: 0;
+  border-radius: 8px;
+  cursor:cell;
+  width: 50px;
+  align-items: center;
+  text-align: center;
+  font-size: 0.8em;
+}
+.delete:hover{
+  color:#B76E79;
+  background-color: whitesmoke;
 }
