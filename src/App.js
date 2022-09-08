@@ -49,7 +49,7 @@ const App = () => {
               <h2>{quotes}</h2>
             </div>
             <div className="quotebutton">
-              <button onClick={API}>Generate Quotes</button>
+              <button onClick={API}>Generate Quote</button>
             </div>
           </div>
         </div>
