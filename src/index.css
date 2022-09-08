@@ -29,7 +29,7 @@ body {
 }
 .quotebox {
   position:absolute;
-  background-color: whitesmoke;
+  background-color: #EEF2E6;
   width: 600px;
   height: 200px;
   top: 50%;
@@ -44,7 +44,7 @@ body {
   margin-right: auto;
 }
 button {
-  background-color: whitesmoke;
+  background-color: #EEF2E6;
   border-radius: 28px;
   border: 1px solid #B76E79;
   display: inline-block;
@@ -81,7 +81,7 @@ button:active {
   display: flex;
   justify-content: center;
   align-items: center;
-  background: whitesmoke;
+  background: #EEF2E6;
 }
 .Nav > .nav{
   font-weight: 700;
@@ -112,7 +112,7 @@ button:active {
 }
 .home button {
   background-color: black;
-  color: whitesmoke;
+  color: #EEF2E6;
   border: 0;
   border-radius: 8px;
   cursor: pointer;
@@ -121,20 +121,20 @@ button:active {
 }
 .home button:hover{
   color:#B76E79;
-  background-color: whitesmoke;
+  background-color: #EEF2E6;
 }
 .show {
   width: 100vw;
   height: 800vh;
   background-color:#B76E79;
-  color: whitesmoke;
+  color: #EEF2E6;
   font-size: 1.3em;
   font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
   font-style: oblique;
 }
 .show button {
   background-color: black;
-  color: whitesmoke;
+  color: #EEF2E6;
   border: 0;
   border-radius: 8px;
   cursor:cell;
@@ -145,5 +145,5 @@ button:active {
 }
 .delete:hover{
   color:#B76E79;
-  background-color: whitesmoke;
+  background-color: #EEF2E6;
 }
