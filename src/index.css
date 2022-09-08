@@ -46,19 +46,19 @@ body {
 button {
   background-color: #EEF2E6;
   border-radius: 28px;
-  border: 1px solid #B76E79;
+  border: 1px solid #D6CDA4;
   display: inline-block;
   color: black;
   font-family: Arial, Helvetica, sans-serif;
   padding: 16px 31px;
   text-decoration: none;
   font-size: 1.2em;
-  text-shadow: 0px 1px 0px #B76E79 ;
+  text-shadow: 0px 1px 0px #D6CDA4 ;
 }
 button:hover {
   background-color: black;
-  color: whitesmoke;
-  border: 1px solid #B76E79;
+  color: #EEF2E6;
+  border: 1px solid #D6CDA4;
 }
 button:active {
   position: relative;
@@ -72,7 +72,7 @@ button:active {
   height: auto;
   margin: 0;
   text-align: center;
-  background-color: #B76E79;
+  background-color: #D6CDA4;
   margin-top: 0;
 }
 .Nav {
@@ -120,13 +120,13 @@ button:active {
   align-items: center;
 }
 .home button:hover{
-  color:#B76E79;
+  color:#D6CDA4;
   background-color: #EEF2E6;
 }
 .show {
   width: 100vw;
   height: 800vh;
-  background-color:#B76E79;
+  background-color:#D6CDA4;
   color: #EEF2E6;
   font-size: 1.3em;
   font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
@@ -144,6 +144,6 @@ button:active {
   font-size: 0.8em;
 }
 .delete:hover{
-  color:#B76E79;
+  color:#D6CDA4;
   background-color: #EEF2E6;
 }
