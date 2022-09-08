@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/big-basket-react-frontend/static/css/main.027d1a7b.css",
+    "main.js": "/big-basket-react-frontend/static/js/main.09f71702.js",
+    "index.html": "/big-basket-react-frontend/index.html",
+    "main.027d1a7b.css.map": "/big-basket-react-frontend/static/css/main.027d1a7b.css.map",
+    "main.09f71702.js.map": "/big-basket-react-frontend/static/js/main.09f71702.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.027d1a7b.css",
+    "static/js/main.09f71702.js"
+  ]
+}
