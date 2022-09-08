@@ -17,13 +17,13 @@ body {
   /* margin-top: 100px; */
   justify-content: center;
   align-items: center;
-  background: whitesmoke
+  background: #1c6758;
 }
 .Navbar > .nav-logo {
   font-weight: 700;
   font-size: 1.3em;
   margin: 15px;
-  color: #B76E79;
+  color: #D6CDA4;
   text-align: center;
   
 }
