@@ -16,19 +16,19 @@ This is a project that contains random quotes. A user is able to generate random
 
 1. Clone the repository
 
-##### git clone https://github.com/benardabwao/big-basket-react-frontend.git
+   git clone https://github.com/benardabwao/big-basket-react-frontend.git
 
 2. cd to big-basket
 
-##### cd big-basket
+   cd big-basket
 
 3. Install packages
 
-##### npm install
+   npm install
 
 4. Run the application
 
-#### npm start
+   npm start
 
 ## Project Links
 
