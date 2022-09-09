@@ -4,7 +4,7 @@
 
 ## Project Description
 
-This is a project that contains random quotes. A user is able to generate random quotes from the database as well as create a new quote in the application.
+This is a project that contains a collection of inspirations. A user is able to generate random inspiration from the database as well as create a new one in the application.
 
 ## Technologies Used
 
