@@ -51,7 +51,7 @@ function handleDelete(id) {
       <div className="home">
         <Nav1 />
         <form onSubmit={(e) => submit(e)}>
-          <label>Quote:</label>
+          <label>Inspiration:</label>
           <textarea
             id="txt-area"
             rows="5"
