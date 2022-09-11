@@ -34,12 +34,16 @@ This is a project that contains a collection of inspirations. A user is able to 
 
 ### Frontend Repository
 
-    https://github.com/BenardAbwao/Big-Basket-React-Frontend
+click this https://github.com/BenardAbwao/Big-Basket-React-Frontend
 
-### Live
+### Frontend Live Link
 
-    https://big-basket-react-frontend.vercel.app/
+click this https://big-basket-react-frontend.vercel.app/
 
 ### Backend Repository
 
 click this https://github.com/BenardAbwao/Big-Basket-Backend
+
+### Backend Live Link
+
+click this https://big-basket-api.herokuapp.com/quotes
