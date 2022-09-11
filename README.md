@@ -10,6 +10,7 @@ This is a project that contains a collection of inspirations. A user is able to 
 
 - JavaScript/React
 - CSS
+- Ruby
 - Sinatra API
 
 ## Setup
