@@ -32,7 +32,7 @@ This is a project that contains a collection of inspirations. A user is able to 
 
 ## Project Links
 
-### Repo
+### Frontend Repo
 
     https://github.com/BenardAbwao/Big-Basket-React-Frontend
 
