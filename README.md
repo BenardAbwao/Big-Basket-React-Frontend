@@ -32,7 +32,7 @@ This is a project that contains a collection of inspirations. A user is able to 
 
 ## Project Links
 
-### Frontend Repo
+### Frontend Repository
 
     https://github.com/BenardAbwao/Big-Basket-React-Frontend
 
@@ -40,6 +40,6 @@ This is a project that contains a collection of inspirations. A user is able to 
 
     https://big-basket-react-frontend.vercel.app/
 
-### Backend repo
+### Backend Repository
 
 click this https://github.com/BenardAbwao/Big-Basket-Backend
